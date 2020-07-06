@@ -1,5 +1,5 @@
 name: brand_name_generator
-description: A new Flutter project.
+description: Brand Name Generator.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
@@ -23,6 +23,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  english_words: ^3.1.5  
 
 
   # The following adds the Cupertino Icons font to your application.
